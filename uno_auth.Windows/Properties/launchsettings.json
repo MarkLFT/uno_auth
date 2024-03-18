@@ -1,0 +1,10 @@
+{
+	"profiles": {
+		"uno_auth.Windows (Unpackaged)": {
+			"commandName": "Project"
+		},
+		"uno_auth.Windows (Package)": {
+			"commandName": "MsixPackage"
+		}
+	}
+}

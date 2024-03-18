@@ -1,0 +1,23 @@
+<linker>
+  <assembly fullname="uno_auth" />
+  <assembly fullname="uno_auth.Wasm" />
+
+
+  <assembly fullname="IdentityModel" />
+  <assembly fullname="System.IdentityModel.Tokens.Jwt" />
+
+  <assembly fullname="System.Net.Http" />
+
+  <assembly fullname="System.Core">
+
+    <type fullname="System.Linq.Expressions*" />
+
+  </assembly>
+
+  <!--
+  Uncomment this section when using JSON.NET
+  <assembly fullname="System.Core">
+    <type fullname="System.Linq.Expressions*" />
+  </assembly>
+   -->
+</linker>

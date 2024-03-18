@@ -1,0 +1,10 @@
+{
+  "background_color": "#ffffff",
+  "description": "uno_auth",
+  "display": "standalone",
+  "name": "uno_auth",
+  "short_name": "uno_auth",
+  "start_url": "/index.html",
+  "theme_color": "#ffffff",
+  "scope": "/"
+}
